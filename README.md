@@ -1,8 +1,14 @@
 # SoundcloudCli
 
+A CLI for Soundcloud, that will scrape Home Feed (of artist that user follows) for the past week of posts and reorganize songs/tracks by "likes" or "plays" in descending order.
+
+## Motivation
+
+Being a DJ and avid Soundcloud user to find what's hot in new music, I noticed that my personal feed was only organized by date posted. Having to scroll through feed to find tracks that have gained popularity was not the most efficient way. There is no option to organize my feed currently in the website, hence this project.
+
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/soundcloud_cli`. To experiment with that code, run `bin/console` for an interactive prompt.
 
-TODO: Delete this and the text above, and describe your gem
+
 
 ## Installation
 
