@@ -1,5 +1,3 @@
-require "soundcloud_cli/version"
-
-module SoundcloudCli
-  # Your code goes here...
-end
+#cli controller
+require_relative "soundcloud_cli/version"
+require_relative "soundcloud_cli/cli"

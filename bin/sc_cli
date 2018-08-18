@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby
+require_relative '../lib/soundcloud_cli'
 
-puts "It's Working!"
+ScCli.new.call
